@@ -1,0 +1,4 @@
+#Tue May 23 12:13:53 EET 2023
+base.0=/Users/ahmedabufayed/Downloads/Flutter_ToDo_app--main/todo_00/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,12 @@
+com.example.todo_00.app-jetified-window-java-1.0.0-beta04-0 /Users/ahmedabufayed/.gradle/caches/transforms-3/0738edd5f88f65e42d4602f987275a72/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.todo_00.app-jetified-annotation-experimental-1.1.0-1 /Users/ahmedabufayed/.gradle/caches/transforms-3/369ba75e4c7f33583f011c220195f98e/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.todo_00.app-jetified-window-1.0.0-beta04-2 /Users/ahmedabufayed/.gradle/caches/transforms-3/af20e7cd6b1badf1904ee00eac176264/transformed/jetified-window-1.0.0-beta04/res
+com.example.todo_00.app-core-1.6.0-3 /Users/ahmedabufayed/.gradle/caches/transforms-3/b8203fe242bcd1c096ac2fef8b83226d/transformed/core-1.6.0/res
+com.example.todo_00.app-main-4 /Users/ahmedabufayed/Downloads/Flutter_ToDo_app--main/todo_00/android/app/src/main/res
+com.example.todo_00.app-release-5 /Users/ahmedabufayed/Downloads/Flutter_ToDo_app--main/todo_00/android/app/src/release/res
+com.example.todo_00.app-pngs-6 /Users/ahmedabufayed/Downloads/Flutter_ToDo_app--main/todo_00/build/app/generated/res/pngs/release
+com.example.todo_00.app-resValues-7 /Users/ahmedabufayed/Downloads/Flutter_ToDo_app--main/todo_00/build/app/generated/res/resValues/release
+com.example.todo_00.app-rs-8 /Users/ahmedabufayed/Downloads/Flutter_ToDo_app--main/todo_00/build/app/generated/res/rs/release
+com.example.todo_00.app-mergeReleaseResources-9 /Users/ahmedabufayed/Downloads/Flutter_ToDo_app--main/todo_00/build/app/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.example.todo_00.app-mergeReleaseResources-10 /Users/ahmedabufayed/Downloads/Flutter_ToDo_app--main/todo_00/build/app/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.example.todo_00.app-merged_res-11 /Users/ahmedabufayed/Downloads/Flutter_ToDo_app--main/todo_00/build/app/intermediates/merged_res/release
